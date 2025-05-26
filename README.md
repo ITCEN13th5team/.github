@@ -1,7 +1,6 @@
 # ITCEN 5조
 
-
-![러너스하이](https://github.com/user-attachments/assets/ff643a37-6b31-4e61-9805-625a68dc2d67)
+<img src="https://github.com/user-attachments/assets/ff643a37-6b31-4e61-9805-625a68dc2d67" width = 180>
 
 
 
